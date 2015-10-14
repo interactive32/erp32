@@ -60,3 +60,4 @@ If you add new language make sure your configure it inside admin panel.
 Users manual is located under users_manual folder and it is also accessible through erp32 main menu
 
 
+[More info...](http://interactive32.com)
