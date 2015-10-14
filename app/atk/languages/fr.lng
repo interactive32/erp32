@@ -1,0 +1,58 @@
+<?php
+ 
+  //
+  // Format: encode in utf-8 without BOM
+  // 
+  
+ 
+  $fr = array(
+
+  // pdf documents, first to be translated
+ 
+"pdf_page_num" => "Page",
+"pdf_invoice" => "Facture",
+"pdf_invoice_with_shipment" => "Facture / Envoi",
+"pdf_shipment" => "Envoi",
+"pdf_quote" => "Offre",
+"pdf_receipt" => "Reçu",
+"pdf_creditnote" => "Note de crédit",
+"pdf_purchaseorder" => "Bon de commande",
+"pdf_inventory" => "Inventaire",
+"pdf_internal_transfer_out" => "Transfert interne - envoi",
+"pdf_internal_transfer_in" => "Transfert interne - reception",
+"pdf_ticket_number" => "Numéro de document",
+"pdf_place_of_issue" => "Lieu de délivrance",
+"pdf_ducument_date" => "Date du document",
+"pdf_date_product_issue" => "Date de délivrance",
+"pdf_taxid" => "Numéro de TVA",
+"pdf_date_payment" => "Date d'échéance",
+"pdf_place_of_receipt" => "Lieu de reception",
+"pdf_place_of_inventory" => "Lieu d'inventaire",
+"pdf_number_short" => "No.",
+"pdf_product_id" => "Nom de l'article",
+"pdf_product" => "Article",
+"pdf_amount" => "Quantité",
+"pdf_amount_on_inventory" => "Quantité inventoriée",
+"pdf_differences" => "Différences",
+"pdf_unit_short" => "Unité",
+"pdf_tax_rate" => "Taux de TVA",
+"pdf_tax" => "TVA",
+"pdf_tax_price" => "Valeur de TVA",
+"pdf_price" => "Prix",
+"pdf_pricebuy" => "Prix d'achat",
+"pdf_discount_percent" => "Réduc.%",
+"pdf_ticket_sum" => "Montant",
+"pdf_total_with_tax" => "TTC",
+"pdf_external_number" => "Numéro de facture du fournisseur",
+"pdf_total" => "Total",
+"pdf_total_amount_for_payment" => "Total à payer",
+"pdf_tax_specification" => "Spécification de TVA",
+"pdf_tax_id" => "Taux de TVA",
+"pdf_tax_base" => "Base de TVA",
+"pdf_tax_amount" => "Montant de TVA",
+"pdf_signature_left" => "Personne autorisée",
+"pdf_signature_center" => "Délivré par",
+"pdf_signature_right" => "Reçu par"
+
+);
+

@@ -1,0 +1,58 @@
+<?php
+ 
+  //
+  // Format: encode in utf-8 without BOM
+  // 
+  
+ 
+  $mk = array(
+
+  // pdf documents, first to be translated
+ 
+"pdf_page_num" => "Страна",
+"pdf_invoice" => "Фактура",
+"pdf_invoice_with_shipment" => "Фактура / Испратница",
+"pdf_shipment" => "Испратница",
+"pdf_quote" => "Понуда",
+"pdf_receipt" => "Приемница",
+"pdf_creditnote" => "Кредитна белешка",
+"pdf_purchaseorder" => "Налог за нарачка",
+"pdf_inventory" => "Попис",
+"pdf_internal_transfer_out" => "Внатрешен пренос - испраќање",
+"pdf_internal_transfer_in" => "Внатрешен пренос - прием",
+"pdf_ticket_number" => "Број на документот",
+"pdf_place_of_issue" => "Место на издавање",
+"pdf_ducument_date" => "Датум на документот",
+"pdf_date_product_issue" => "Датум на испорака",
+"pdf_taxid" => "Даночен број",
+"pdf_date_payment" => "Рок на плаќање",
+"pdf_place_of_receipt" => "Место на прием",
+"pdf_place_of_inventory" => "Локација на попис",
+"pdf_number_short" => "Бр.",
+"pdf_product_id" => "Име на артикл",
+"pdf_product" => "Артикл",
+"pdf_amount" => "Количина",
+"pdf_amount_on_inventory" => "Попишана количина",
+"pdf_differences" => "Разлика",
+"pdf_unit_short" => "Единица",
+"pdf_tax_rate" => "Стапка на ДДВ",
+"pdf_tax" => "ДДВ",
+"pdf_tax_price" => "Вредност на ДДВ",
+"pdf_price" => "Цена",
+"pdf_pricebuy" => "Набавна цена",
+"pdf_discount_percent" => "Попуст%",
+"pdf_ticket_sum" => "Износ",
+"pdf_total_with_tax" => "Вкупно со ДДВ",
+"pdf_external_number" => "Број на фактурата на добавувачот",
+"pdf_total" => "Вкупно",
+"pdf_total_amount_for_payment" => "Вкупно за плаќање",
+"pdf_tax_specification" => "ДДВ спецификација",
+"pdf_tax_id" => "Даночна стапка",
+"pdf_tax_base" => "Основа",
+"pdf_tax_amount" => "Износ на ДДВ",
+"pdf_signature_left" => "Овластено лице",
+"pdf_signature_center" => "Издадено од",
+"pdf_signature_right" => "Примено од"
+
+);
+

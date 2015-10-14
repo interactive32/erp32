@@ -1,0 +1,60 @@
+<?php
+ 
+  //
+  // Format: encode in utf-8
+  // 
+  
+ 
+  $de = array(
+
+  // pdf documents, first to be translated
+ 
+  "page_num" => "Seite",
+  "pdf_page_num" => "Seite",
+  "pdf_invoice" => "Rechnung",
+  "pdf_invoice_with_shipment" => "Rechnung / Lieferschein",   
+  "pdf_shipment" => "Lieferschein",    
+  "pdf_quote" => "Angebot",    
+  "pdf_receipt" => "Empfang",   
+  "pdf_creditnote" => "Gutschrift",    
+  "pdf_purchaseorder" => "Bestellung",    
+  "pdf_inventory" => "Inventar",     
+  "pdf_internal_transfer_out" => "Interner transfer- aus",   
+  "pdf_internal_transfer_in" => "Interner transfer - in",    
+  "pdf_ticket_number" => "Dokumentnummer",    
+  "pdf_place_of_issue" => "Ort der Ausstellung",   
+  "pdf_ducument_date" => "Eroeffnungsdatum",    
+  "pdf_date_product_issue" => "Versanddatum",    
+  "pdf_taxid" => "MwSt ID",     
+  "pdf_date_payment" => "Zahlungsfrist",   
+  "pdf_place_of_receipt" => "Ort des Empfangs",    
+  "pdf_place_of_issue" => "Ort der Ausstellung",    
+  "pdf_place_of_inventory" => "Inventar Standort",   
+  "pdf_number_short" => "Num",  
+  "pdf_product_id" => "Artikelbeschreibung",    
+  "pdf_product" => "Artikel",    
+  "pdf_amount" => "Quantität",     
+  "pdf_amount_on_inventory" => "Stand nach der Inventur", 
+  "pdf_differences" => "Differenzen",    
+  "pdf_unit_short" => "Einheit",    
+  "pdf_tax_rate" => "MwSt Satz",   
+  "pdf_tax" => "MwSt",    
+  "pdf_tax_price" => "MwSt. Preis",  
+  "pdf_price" => "Preis",    
+  "pdf_pricebuy" => "Kaufpreis",    
+  "pdf_discount_percent" => "Rabatt %",    
+  "pdf_ticket_sum" => "Summe",    
+  "pdf_total_with_tax" => "Zusammen mit MwSt",     
+  "pdf_external_number" => "Lieferanten Rechnungsnummer",   
+  "pdf_total" => "Zusammen",    
+  "pdf_total_amount_for_payment" => "Zusammen zur Auszahlung",   
+  "pdf_tax_specification" => "MwSt Spezifikation",
+  "pdf_tax_id" => "Proz. MwSt",   
+  "pdf_tax_base" => "MwSt Grund",  
+  "pdf_tax_amount" => "MwSt Betrag",   
+  "pdf_signature_left" => "Unterschrift",      
+  "pdf_signature_center" => "Unterschrift",    
+  "pdf_signature_right" => "Unterschrift",    
+  "" => ""
+);
+
