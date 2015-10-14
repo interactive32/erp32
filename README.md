@@ -1,7 +1,8 @@
+[Visit Interactive32 For More APPs](http://interactive32.com)
+
 #ERP32
 web-based business management php software
 
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
 
 CONTENTS:
 
