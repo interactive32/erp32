@@ -1,10 +1,12 @@
 [Visit Interactive32 For More APPs](http://interactive32.com)
 
+Web-based business management php software
+
 #ERP32
 ![Erp32](http://interactive32.com/resources/erp32_github.jpg)
 
-#Web-based business management php software
-CONTENTS:
+#CONTENTS:
+
 
 1. Before you begin
 2. Short description
