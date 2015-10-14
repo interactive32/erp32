@@ -9,7 +9,6 @@ CONTENTS:
 3. Installation
 4. Customization
 5. Users Manual
-6. Frequently Asked Questions (FAQ)
 
 
 #1. Before you begin:
