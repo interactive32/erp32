@@ -3,7 +3,7 @@
 #ERP32
 web-based business management php software
 
-![Erp32](http://interactive32.com/resources/erp32.jpg)
+![Erp32](http://interactive32.com/resources/erp32_github.jpg)
 
 CONTENTS:
 
