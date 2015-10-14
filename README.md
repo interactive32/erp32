@@ -1,6 +1,5 @@
-[Visit Interactive32 For More APPs](http://interactive32.com)
 
-Web-based business management php software
+Erp32 - Web-based business management php software. [More info...](http://interactive32.com)
 
 #ERP32
 ![Erp32](http://interactive32.com/resources/erp32_github.jpg)
