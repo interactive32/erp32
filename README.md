@@ -1,5 +1,5 @@
 
-Erp32 - Web-based business management php software. [More info...](http://interactive32.com)
+Erp32 - Web-based enterprise resource planning business management php software. [More info...](http://erp32.com)
 
 #ERP32
 ![Erp32](http://interactive32.com/resources/erp32_github.jpg)
