@@ -1,4 +1,6 @@
 
+#WARNING: THIS PROJECT IS NO LONGER MAINTAINED!
+
 Erp32 - Web-based enterprise resource planning business management php software. [More info...](http://erp32.com)
 
 #ERP32
