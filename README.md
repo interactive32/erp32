@@ -1,7 +1,7 @@
 
 ## WARNING: THIS PROJECT IS NO LONGER MAINTAINED!
 
-Erp32 - Web-based enterprise resource planning business management php software. [More info...](http://erp32.com)
+Erp32 - Web-based enterprise resource planning business management php software.
 
 #ERP32
 ![Erp32](http://interactive32.com/resources/erp32_github.jpg)
@@ -63,7 +63,6 @@ If you add new language make sure your configure it inside admin panel.
 Users manual is located under users_manual folder and it is also accessible through erp32 main menu
 
 
-[More info...](http://interactive32.com)
 
 -----
 
