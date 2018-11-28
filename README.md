@@ -76,3 +76,11 @@ Copy, move, rename, create, edit or delete online files and folders. Create arch
 ##TimeCase - Time Tracking app
 
 TimeCase helps you keep track of your time. It is a powerful yet easy to use web application for everyone who wants to see how much time is spent on certain tasks and projects. [More info...](http://www.timecase.net)
+
+-------
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright (c) 2013-present, interactive32
