@@ -7,7 +7,12 @@ Erp32 - Web-based enterprise resource planning business management php software.
 ![Erp32](http://interactive32.com/resources/erp32_github.jpg)
 
 # Usage with Docker and docker-compose
-Start:
+Clone:
+```
+git clone git@github.com:interactive32/erp32.git
+```
+
+Start with Docker:
 ```
 docker compose up -d
 ```
