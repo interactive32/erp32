@@ -6,6 +6,38 @@ Erp32 - Web-based enterprise resource planning business management php software.
 #ERP32
 ![Erp32](http://interactive32.com/resources/erp32_github.jpg)
 
+# Usage with Docker and docker-compose
+Start:
+```
+docker compose up -d
+```
+
+Fix permissions
+```
+docker exec -i erp32-backend chown -R www-data:www-data /var/www/html
+```
+Prepare database
+```
+docker exec -i erp32-db mysql -uroot -pmypass erp32_database < erp32/database/blank_database.sql
+```
+or import demo database
+```
+docker exec -i erp32-db mysql -uroot -pmypass erp32_database < erp32/database/demo_database.sql
+```
+
+Use:
+```
+http://localhost:9000
+```
+
+Available users:
+```
+administrator/admin123
+user1/user1
+user2/user2
+```
+
+
 #CONTENTS:
 
 
@@ -34,7 +66,7 @@ ERP32 is a web-based business management software for small and medium businesse
  
 
 
-#3. Installation
+#3a. Installation (old)
 
 Follow these steps to install and configure erp32:
 

@@ -12,7 +12,7 @@ $config_administratorpassword = "admin123";
 //           DATABASE CONFIGURATION
 // -------------------------------------------
 
-$config_db["default"]["host"] = "localhost";
+$config_db["default"]["host"] = "db";
 $config_db["default"]["db"]   = "erp32_database";
 $config_db["default"]["user"] = "root";
 $config_db["default"]["password"] = "mypass";

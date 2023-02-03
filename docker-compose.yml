@@ -1,0 +1,31 @@
+version: "3.9"
+
+services:
+  erp32:
+    container_name: erp32-backend
+    restart: unless-stopped
+    image: 'alcalbg/php5.6-apache'
+      # alternative image: 'ascdc/apache2-php56:latest'
+    ports:
+      - "9000:80"
+    volumes:
+      - ./erp32:/var/www/html
+    depends_on:
+      - db
+    tty: true
+    networks:
+      - erp32-network
+
+  db:
+    container_name: erp32-db
+    image: 'mysql:5.5'
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: mypass
+    volumes:
+      - ./dbdata:/var/lib/mysql
+    networks:
+        - erp32-network
+
+networks:
+    erp32-network:
