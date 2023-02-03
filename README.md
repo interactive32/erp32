@@ -17,15 +17,13 @@ Start with Docker:
 docker compose up -d
 ```
 
-Fix permissions
+Fix permissions & prepare database
 ```
 docker exec -i erp32-backend chown -R www-data:www-data /var/www/html
-```
-Prepare database
-```
+docker exec -i erp32-db mysql -uroot -pmypass -e 'create database erp32_database'
 docker exec -i erp32-db mysql -uroot -pmypass erp32_database < erp32/database/blank_database.sql
 ```
-or import demo database
+Optional: import demo database
 ```
 docker exec -i erp32-db mysql -uroot -pmypass erp32_database < erp32/database/demo_database.sql
 ```
