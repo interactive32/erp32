@@ -64,21 +64,6 @@ Users manual is located under users_manual folder and it is also accessible thro
 
 
 
------
-
-#See our other products
-
-##FileGator - web file manager
-
-Copy, move, rename, create, edit or delete online files and folders. Create archives with zip or unzip and decompress files online. Search, filter and view files in tree-view. [More info...](http://www.file-gator.com)
-
-
-##TimeCase - Time Tracking app
-
-TimeCase helps you keep track of your time. It is a powerful yet easy to use web application for everyone who wants to see how much time is spent on certain tasks and projects. [More info...](http://www.timecase.net)
-
--------
-
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
