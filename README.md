@@ -3,11 +3,10 @@
 
 Erp32 - Web-based enterprise resource planning business management php software.
 
-#ERP32
 ![Erp32](http://interactive32.com/resources/erp32_github.jpg)
 
 # Usage with Docker and docker-compose
-Clone:
+Clone with git:
 ```
 git clone git@github.com:interactive32/erp32.git && cd erp32
 ```
@@ -28,7 +27,7 @@ Optional: import demo database
 docker exec -i erp32-db mysql -uroot -pmypass erp32_database < erp32/database/demo_database.sql
 ```
 
-Use:
+Usage:
 ```
 http://localhost:9000
 ```
@@ -41,7 +40,7 @@ user2/user2
 ```
 
 
-#CONTENTS:
+# CONTENTS:
 
 
 1. Before you begin
@@ -51,7 +50,7 @@ user2/user2
 5. Users Manual
 
 
-#1. Before you begin:
+## 1. Before you begin:
 
 Consult your accountant about this Software and all features before use.
 
@@ -63,13 +62,13 @@ INTERACTIVE32 WILL NOT BE RESPONSIBLE FOR LOST PROFITS, REVENUES, OR DATA, LOSS 
 
 
 
-#2. Short description
+## 2. Short description
 
 ERP32 is a web-based business management software for small and medium businesses. It allows central management of business processes in your company. 
  
 
 
-#3a. Installation (old)
+## 3. Installation (old)
 
 Follow these steps to install and configure erp32:
 
@@ -83,7 +82,7 @@ Follow these steps to install and configure erp32:
 
 
 
-#4. Customization
+## 4. Customization
 
 Only administrator can create and manage users. Administrtor can also add new security groups and change users permissions.
 
@@ -93,7 +92,7 @@ Language files are located here: erp32/app/atk/languages/ you can add new langua
 If you add new language make sure your configure it inside admin panel.
 
 
-#5. Users Manual
+## 5. Users Manual
 
 Users manual is located under users_manual folder and it is also accessible through erp32 main menu
 
